@@ -1,0 +1,5 @@
+Author: Max Miller
+
+NOTICE: Due to bugs in my tokenizer I will be using the good tokenizer provided on Piazza. With some modification.
+
+Error messages will tell the user what line the error is on, in THEIR program.
